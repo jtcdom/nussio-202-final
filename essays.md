@@ -1,20 +1,36 @@
 # Essay Questions.
 
-1.  Explain the following arguments of Pope Leo XIII's encyclical *Rerum
-    Novarum*: 1) his critique of communism, 2) his solutions to the
-    social problems of the industrial era, 3) the responsibilities of
-    the capitalist class.
+# Essay 3
+_Using either Carl Friedrich, OR Alan Besançon, OR Hannah Arendt's
+definition of totalitarianism explain how the Soviet Union and Nazi
+Germany each fulfilled the criteria of a totalitarian regime._
 
-2.  Explain the impact of ethnic nationalism on Europe in the twentieth
-    century, according to Mueller.
+### 1. Ideology
+- Nazis: German superiority
+- Soviets: Communism
 
-3.  Using either Carl Friedrich, OR Alan Besançon, OR Hannah Arendt's
-    definition of totalitarianism explain how the Soviet Union and Nazi
-    Germany each fulfilled the criteria of a totalitarian regime.
+### 2. Party
+- Nazis: The Nazi Party
+- Soviets: The Communist Party
 
-4.  Explain the following arguments from Aurel Kolani's essay "The Three
-    Riders of the Apocalypse": 1) why he says Nazism ought to be
-    classified on the "political right", 2) what he believes are the
-    totalitarian characteristics of "Progressive Democracy" and 3) why
-    he concludes conservatives must not "observe an attitude of
-    neutrality in the struggle between democracy and Bolshevism".
+### 3. Army
+- Nazis: As a Fascist state, Nazi
+  Germany was intimately connected to
+  its army.
+- Soviets: The Bolskeveiks had their own
+  Red Army of radicalized party members
+  from the start.
+
+### 4. Communication
+- Nazis: Goebbels and the Ministry of
+  Enlightenment and Propaganda.
+  Public book-burnings.
+- Soviets: Destroyed dissident
+  communications, erased people from
+  photos. Told everyone that Russia's
+  economy was just fine. Jammed foreign
+  radio stations.
+
+### 5. Police
+- Nazis: The Gestapo
+- Soviets: The KGB
