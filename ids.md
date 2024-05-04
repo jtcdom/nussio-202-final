@@ -35,8 +35,8 @@
   current balance of power.
 
 ### Otto von Bismarck
-- Prime Minister of Germany who achieved
-  its unification before WW1.
+- Prime Minister of Prussia, and then Germany, who achieved
+  Germany unification before WW1.
 
 ### Franco-Prussian War
 - War between Napoleon 3's France and
@@ -47,7 +47,8 @@
   of Alsance-Lorraine.
 
 ### Second Industrial Revolution
-- Telegraphs and railroads. The first IR
+- Telegraphs and railroads. Better
+  worker protections. The first IR
   occurred mainly in Britain and then
   Western Europe, but the second
   happened mainly in Britain, USA, and
